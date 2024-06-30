@@ -12,7 +12,7 @@ Repository Contents
 
 * **.github/workflows** - YAML files used for GitHub Actions and GitHub Pages/mkdocs
 * **/Firmware** - UM980 Firmware packages
-* **/Software** - Related software for the <PRODUCT NAME>
+* **/Software** - Related software for the UM980
 * **/docs** - Online documentation files
   * **/assets** - Folder containing all the file assets used for product documentation
     * **/board_files** - Copy of design files used for product documentation
@@ -29,4 +29,4 @@ Products that use this Library
 ---------------------------------
 
 * [GPS-23286](https://www.sparkfun.com/products/23286) - SparkFun Triband GNSS RTK Breakout - UM980
-* [GPS-25662](https://www.sparkfun.com/products/25662) - SparkFUn RTK Torch
+* [GPS-25662](https://www.sparkfun.com/products/25662) - SparkFun RTK Torch
