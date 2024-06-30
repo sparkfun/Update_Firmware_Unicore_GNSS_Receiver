@@ -28,5 +28,5 @@ Repository Contents
 Products that use this Library 
 ---------------------------------
 
-* [GPS-23286]([https://www.sparkfun.com/products/23286) - SparkFun Triband GNSS RTK Breakout - UM980
+* [GPS-23286](https://www.sparkfun.com/products/23286) - SparkFun Triband GNSS RTK Breakout - UM980
 * [GPS-25662](https://www.sparkfun.com/products/25662) - SparkFUn RTK Torch
