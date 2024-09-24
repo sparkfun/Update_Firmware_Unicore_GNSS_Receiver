@@ -28,7 +28,7 @@ This tutorial will demonstrate how to upgrade the firmware on the UM980 such as 
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/25662">
       <figure markdown>
-        <img src="https://cdn.sparkfun.com/assets/parts/2/6/2/5/0/GPS-24672-RTK-Torch-Featured2.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun RTK Torch">
+        <img src="https://cdn.sparkfun.com/assets/parts/2/6/2/5/0/25662-RTK-Torch-Updated-Feature-Standing2.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun RTK Torch">
       </figure>
     </a>
 
@@ -67,7 +67,7 @@ If you aren’t familiar with the following concepts, we also recommend checking
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
 -   <a href="https://docs.sparkfun.com/SparkFun_RTK_Torch/">
       <figure markdown>
-        <img src="https://cdn.sparkfun.com/assets/parts/2/6/2/5/0/GPS-24672-RTK-Torch-Featured2.jpg" style="width:264px; height:148px; object-fit:contain;" alt="SparkFun RTK Torch Hookup Guide">
+        <img src="https://cdn.sparkfun.com/assets/parts/2/6/2/5/0/25662-RTK-Torch-Updated-Feature-Standing2.jpg" style="width:264px; height:148px; object-fit:contain;" alt="SparkFun RTK Torch Hookup Guide">
       </figure>
     </a>
 
